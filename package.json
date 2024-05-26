@@ -1,0 +1,9 @@
+{
+  "name": "vite-plugin-coi",
+  "module": "mod.ts",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "vite": "^5.2.11"
+  },
+  "type": "module"
+}
